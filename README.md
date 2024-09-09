@@ -1,3 +1,3 @@
-# JMJY2019.github.io
+# [jmjy.vip](https://jmjy.vip)
 
 <li><a href="https://docs.github.com/zh/pages">GitHub Pages 文档 - GitHub 文档</a></li>
